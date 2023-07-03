@@ -100,7 +100,8 @@ ORDER BY 1,2,3;
 
 
 
---USE UCT
+-- Uso de CTE : característica de SQL que permite definir una consulta nombrada y utilizarla como una tabla temporal 
+-- dentro de una consulta principal
 
 
 
