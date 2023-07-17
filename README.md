@@ -14,7 +14,7 @@ Agregación de datos: Calcular estadísticas como el total de casos confirmados,
 
 Filtrado de datos: Seleccionar un subconjunto específico de datos basado en criterios como la fecha o la ubicación geográfica 
 
-Cruce de datos: Combinar el dataset del COVID-19 con otros conjuntos de datos relevantes, como datos demográficos para obtener perspectivas más completas.
+Cruce de datos: Combinar el dataset del COVID-19 con otros conjuntos de datos relevantes, como datos demográficos de casos totales de COVID-19 contra vacunaciones, para obtener perspectivas más completas.
 
 Una vez que hayamos realizado las transformaciones necesarias en los datos, crearemos tablas adicionales en SQL Server para almacenar los 
 resultados obtenidos. Estas tablas pueden incluir resúmenes estadísticos, gráficos temporales o cualquier otra información relevante para 
