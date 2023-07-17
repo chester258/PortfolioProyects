@@ -24,3 +24,7 @@ nuestro análisis.
 Finalmente, exportaremos los datos procesados en archivos CSV para su posterior visualización en Tableau. 
 Tableau nos permitirá crear visualizaciones interactivas y dinámicas, como gráficos, mapas y paneles de control, que nos
 ayudarán a comprender mejor los patrones, tendencias y relaciones dentro del dataset del COVID-19.
+
+
+
+Visualizacion en tableau: https://public.tableau.com/app/profile/nicolas.martinez.ferreyra/viz/CovidDashboard_16884319480540/Dashboard1
