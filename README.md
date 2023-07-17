@@ -1,7 +1,8 @@
+ANALISIS DEL COVID-19
+
 El análisis de datos se ha vuelto fundamental en la comprensión de fenómenos complejos, y uno de los temas más relevantes en la actualidad
-es la pandemia del COVID-19. En este proyecto básico, utilizaremos SQL Server como motor de base de datos para almacenar y gestionar un 
-dataset del COVID-19, y luego aplicaremos transformaciones a los datos para obtener información relevante. Finalmente, exportaremos los
-resultados en archivos CSV para su visualización en Tableau, una herramienta de análisis y visualización de datos.
+es la pandemia del COVID-19. En este proyecto(basico, la sinceridad ante todo), utilizaremos SQL Server como motor de base de datos para almacenar y gestionar un  dataset del COVID-19, y luego aplicaremos transformaciones a los datos para obtener información relevante. 
+Finalmente, exportaremos los resultados en archivos CSV para su visualización en Tableau, una herramienta de análisis y visualización de datos.
 
 El primer paso es cargar el dataset del COVID-19 en SQL Server. Este dataset puede contener información como el número de casos confirmados, 
 fallecimientos, recuperaciones, ubicación geográfica y fechas. Una vez cargados los datos, utilizaremos las capacidades de SQL Server para 
